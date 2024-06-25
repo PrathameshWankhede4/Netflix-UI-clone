@@ -1,15 +1,14 @@
 # Netflix-UI-clone
 This Project is an UI clone of a very popular video streaming platform Netflix. Main focus of this project was to build a responsive website and practice various concepts of HTML and CSS. 
 
-![Screenshot (2490)](https://github.com/PrathameshWankhede4/Netflix-UI-clone/assets/132122543/09c600d4-c848-47ee-95ab-33c5098f24ba)
-![Screenshot (2491)](https://github.com/PrathameshWankhede4/Netflix-UI-clone/assets/132122543/9dc229db-d2eb-41cb-9ef0-3451e2b4291f)
-![Screenshot (2492)](https://github.com/PrathameshWankhede4/Netflix-UI-clone/assets/132122543/a7be93ce-fecd-462a-9595-899beb5cccc3)
-![Screenshot (2493)](https://github.com/PrathameshWankhede4/Netflix-UI-clone/assets/132122543/a9731c67-1dc6-41bc-ae2f-98c8d36c7117)
-![Screenshot (2494)](https://github.com/PrathameshWankhede4/Netflix-UI-clone/assets/132122543/16e01634-789e-452d-b1f2-a803c1686992)
-![Screenshot (2495)](https://github.com/PrathameshWankhede4/Netflix-UI-![Screenshot (2498)](https://github.com/PrathameshWankhede4/Netflix-UI-clone/assets/132122543/9f397b1f-964b-4360-98a7-ab08c0b2b8f3)
-clone/assets/132122543/62e91682-14ae-4a0c-b6f3-25108975ef68)
-![Screenshot (2496)](https://github.com/PrathameshWankhede4/Netflix-UI-clone/assets/132122543/2e452dee-d544-460a-b108-f226734a20e5)
-![Screenshot (2497)](https://github.com/PrathameshWankhede4/Netflix-UI-clone/assets/132122543/9e4e02b6-d1a8-4a2d-8114-2822159c14d2)
-![Screenshot (2498)](https://github.com/PrathameshWankhede4/Netflix-UI-clone/assets/132122543/7a41eafd-2088-4737-a18d-c09a6475aced)
-![Screenshot (2499)](https://github.com/PrathameshWankhede4/Netflix-UI-clone/assets/132122543/18bd8c63-f6f5-4461-830e-a8a73ed03f19)
+![Screenshot (2490)](https://github.com/PrathameshWankhede4/Netflix-UI-clone/assets/132122543/f8baa7f6-2796-4f1c-aba5-25f190f0e56d)
+![Screenshot (2491)](https://github.com/PrathameshWankhede4/Netflix-UI-clone/assets/132122543/2428d13d-55f7-4b8d-bca5-0e5806d31970)
+![Screenshot (2492)](https://github.com/PrathameshWankhede4/Netflix-UI-clone/assets/132122543/8bfd24a9-4daa-472c-9f4b-399bd61470ca)
+![Screenshot (2493)](https://github.com/PrathameshWankhede4/Netflix-UI-clone/assets/132122543/aa2aabc8-d0a7-479f-8a76-7db1532b4ffa)
+![Screenshot (2494)](https://github.com/PrathameshWankhede4/Netflix-UI-clone/assets/132122543/3841e7b7-c299-4cd6-9808-9a0e81d31f5f)
+![Screenshot (2495)](https://github.com/PrathameshWankhede4/Netflix-UI-clone/assets/132122543/ac919ab5-3bc8-4105-983f-52a3439ff821)
+![Screenshot (2496)](https://github.com/PrathameshWankhede4/Netflix-UI-clone/assets/132122543/d73a05ed-98ab-48e4-af45-da2f23af1ad7)
+![Screenshot (2497)](https://github.com/PrathameshWankhede4/Netflix-UI-clone/assets/132122543/7c3f194d-b4c8-4a45-9809-4ed1436350e1)
+![Screenshot (2498)](https://github.com/PrathameshWankhede4/Netflix-UI-clone/assets/132122543/d445ef62-3361-419b-840b-738c895011b8)
+![Screenshot (2499)](https://github.com/PrathameshWankhede4/Netflix-UI-clone/assets/132122543/5f9c42af-ee3f-4edd-a022-9fca21a183e9)
 
