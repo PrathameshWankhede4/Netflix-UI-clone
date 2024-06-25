@@ -10,6 +10,6 @@ This Project is an UI clone of a very popular video streaming platform Netflix. 
 clone/assets/132122543/62e91682-14ae-4a0c-b6f3-25108975ef68)
 ![Screenshot (2496)](https://github.com/PrathameshWankhede4/Netflix-UI-clone/assets/132122543/2e452dee-d544-460a-b108-f226734a20e5)
 ![Screenshot (2497)](https://github.com/PrathameshWankhede4/Netflix-UI-clone/assets/132122543/9e4e02b6-d1a8-4a2d-8114-2822159c14d2)
-![Uploading Screenshot (2498).png…]()
+![Screenshot (2498)](https://github.com/PrathameshWankhede4/Netflix-UI-clone/assets/132122543/7a41eafd-2088-4737-a18d-c09a6475aced)
 ![Screenshot (2499)](https://github.com/PrathameshWankhede4/Netflix-UI-clone/assets/132122543/18bd8c63-f6f5-4461-830e-a8a73ed03f19)
 
